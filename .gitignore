@@ -76,3 +76,7 @@ DerivedDataCache/*
 *.otf
 GSE/Saved/
 GSE/Intermediate/
+GSE/Saved/
+GSE/Intermediate/
+*.otf
+*.bin
